@@ -1,5 +1,5 @@
 # neotrellism4-midi-controller
-MIDI controller with Adafruit NeoTrellis M4 (8x8)
+MIDI controller with [Adafruit NeoTrellis M4 (8x8)](https://www.adafruit.com/product/1929)
 
 Required modules:
  - adafruit_midi
